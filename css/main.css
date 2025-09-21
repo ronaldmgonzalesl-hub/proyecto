@@ -23,7 +23,7 @@ body {
     /* Mantiene las propiedades para centrar y superponer */
     display: none;
     position: absolute;
-    top: 30%;
+    top: 10%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 900;
